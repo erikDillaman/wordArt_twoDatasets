@@ -13,3 +13,5 @@ Contains:
 
 [DTAnalysis.csv] A parsed collection of words and frequencies from all of Donald Trump's tweets during the 2016 election
 
+
+
